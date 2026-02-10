@@ -1,7 +1,7 @@
 ## Github status  
 <p align="left">
   <img alt="github status" height="160px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api?username=amemya&count_private=true&show_icons=true&theme=github_dark_dimmed">
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api/top-langs/?username=amemya&theme=github_dark_dimmed&layout=compact&hide=Jupyter%20Notebook,POV-RAY%20SDL">
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api/top-langs/?username=amemya&theme=github_dark_dimmed&layout=compact&hide=Jupyter%20Notebook,POV-RAY%20SDL,NSIS">
 </p>
 
 ## Now Playing...
